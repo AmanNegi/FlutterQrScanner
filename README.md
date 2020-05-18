@@ -26,7 +26,7 @@ Use of URL to open the QR Code  which is not in the form of a link or Website.
 
 ## Authors
 
-> **Aman Negi** - *Initial work* - [Aman Negi](https://github.com/AmanNegi)
+>  [**Aman Negi**](https://github.com/AmanNegi) - *Initial work*
 
 
 ## Feel Free to Contract
