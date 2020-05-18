@@ -11,7 +11,7 @@ Use of custom paint to create extensive and modular. The app has been designed a
 Use of URL to open the QR Code  which is not in the form of a link or Website.
 
 
-### Screenshots of the application
+## Screenshots of the application
 <p float="left">
   <img src="https://github.com/AmanNegi/FlutterQrScanner/blob/master/ScreenShots/mainScreen.png" width="100" />
   <img src="https://github.com/AmanNegi/FlutterQrScanner/blob/master/ScreenShots/_permit.png" width="100" /> 
@@ -26,10 +26,10 @@ Use of URL to open the QR Code  which is not in the form of a link or Website.
 
 ## Authors
 
-* **Aman Negi** - *Initial work* - [Aman Negi](https://github.com/AmanNegi)
+> **Aman Negi** - *Initial work* - [Aman Negi](https://github.com/AmanNegi)
 
 
-### Feel Free to Contract
+## Feel Free to Contract
 
 * Gmail : akuro787898@gmail.com
 * Facebook : https://www.facebook.com/aster.joules
