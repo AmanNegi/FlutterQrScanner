@@ -30,8 +30,8 @@ Use of URL to open the QR Code  which is not in the form of a link or Website.
 
 
 ### Feel Free to Contract
-```
-Gmail : akuro787898@gmail.com
-Facebook : https://www.facebook.com/aster.joules
-Instagram : https://www.instagram.com/asterjoules/
-```
+
+* Gmail : akuro787898@gmail.com
+* Facebook : https://www.facebook.com/aster.joules
+* Instagram : https://www.instagram.com/asterjoules/
+
