@@ -10,10 +10,11 @@ Use of custom paint to create extensive and modular. The app has been designed a
 * **Use of URL**</br>
 Use of URL to open the QR Code  which is not in the form of a link or Website.
 
+ 
 
-## Screenshots of the application
+## Screenshots of the application 
+<img src="https://github.com/AmanNegi/FlutterQrScanner/blob/master/ScreenShots/mainScreen.png" width="400" />
 <p float="left">
-  <img src="https://github.com/AmanNegi/FlutterQrScanner/blob/master/ScreenShots/mainScreen.png" width="100" />
   <img src="https://github.com/AmanNegi/FlutterQrScanner/blob/master/ScreenShots/_permit.png" width="100" /> 
   <img src="https://github.com/AmanNegi/FlutterQrScanner/blob/master/ScreenShots/scan.png" width="100" />
   <img src="https://github.com/AmanNegi/FlutterQrScanner/blob/master/ScreenShots/search_result.png" width="100"/>
