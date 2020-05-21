@@ -7,7 +7,7 @@ A QR scanner created using flutter. Consider reading the whole readme.md for det
 * **Custom Paint** </br>
 Use of custom paint to create extensive and modular. The app has been designed and the color theme is also selected according to its functionality. For the CustomPaint class used click [here.](https://github.com/AmanNegi/FlutterQrScanner/blob/master/lib/CurvePainter.dart)
 
-* **Use of URL***</br>
+* **Use of URL**</br>
 Use of URL to open the QR Code  which is not in the form of a link or Website.
 
 
